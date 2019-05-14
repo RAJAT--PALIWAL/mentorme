@@ -1,3 +1,6 @@
+# Healthy Girl
+https://assistant.google.com/services/a/uid/000000adf6742cc6?hl=en
+
 Healthy Girl is a conversational bot which can be used in a classroom or standalone environment to understand about periods in females and what causes them. Users can get basic information about why periods happen and other information associated with this topic.
 Here are some of the questions you can ask.
 - What are periods?
